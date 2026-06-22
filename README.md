@@ -8,8 +8,8 @@ In this project you will build such a pipeline.
 
 ## Project Submission Links
 
-- **Weights & Biases project (public):** https://wandb.ai/sahara-tm65-wgu/nyc_airbnb?nw=nwusersaharatm65
-- **GitHub repository:** https://github.com/Sahara65/Project-Build-an-ML-Pipeline-Starter.git
+- **Weights & Biases project (public):** https://wandb.ai/sahara-tm65-wgu/nyc_airbnb
+- **GitHub repository:** https://github.com/Sahara65/Project-Build-an-ML-Pipeline-Starter
 
 ## Table of contents
 
